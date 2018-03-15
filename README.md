@@ -3,18 +3,21 @@
 
 **mvn compile**  
   
-    compile les sources (lancée depuis le répertoire racine de l'application).
-    compile les fichiers .java en .class dans le dossier target 
+    compile les sources (lancée depuis le répertoire racine de l'application)
+    crée le dossier target
+    compile les fichiers .java en .class (code binaire) dans le dossier target 
   
 
 **mvn install**
 
-    créer le fichier .jar  
+    crée le fichier .jar (qui comprend tous les fichiers.class)
   
 
 **java -cp target/hello-1.jar hello.HelloWorld**  
 
-    copie et colle le fichier .jar dans le projet helloworld
+    exécute le programme et l'affiche 
+    cp : chemin où est le fichier
+    hello.HelloWorld : pointe la classe à exécuter (classe HelloWorld dans fichier hello)
 
 
 ----
