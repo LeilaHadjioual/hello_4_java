@@ -22,7 +22,7 @@
 
 ----
 
-### help :   
+### Autre commande :   
 
 **mvn clean**
 
