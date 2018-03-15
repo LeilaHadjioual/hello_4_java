@@ -16,7 +16,7 @@
 **java -cp target/hello-1.jar hello.HelloWorld**  
 
     exécute le programme et l'affiche 
-    cp : chemin où est le fichier
+    cp : chemin où est le fichier .jar
     hello.HelloWorld : pointe la classe à exécuter (classe HelloWorld dans fichier hello)
 
 
