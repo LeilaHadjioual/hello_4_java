@@ -26,4 +26,4 @@
 
 **mvn clean**
 
-   permet d'effacer tous les fichiers générés par Maven.
+    permet d'effacer tous les fichiers générés par Maven.
