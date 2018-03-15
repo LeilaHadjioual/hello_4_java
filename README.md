@@ -9,12 +9,12 @@
 
 **mvn install**
 
-  créer le fichier .jar  
+    créer le fichier .jar  
   
 
 **java -cp target/hello-1.jar hello.HelloWorld**  
 
-  copie et colle le fichier .jar dans le projet helloworld
+    copie et colle le fichier .jar dans le projet helloworld
 
 
 ----
